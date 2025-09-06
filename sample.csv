@@ -1,0 +1,6 @@
+id,name,role,experience_years,skills
+1,Akash,Fullstack Developer,4,"JavaScript, React, Node.js, PostgreSQL"
+2,Meera,Data Scientist,3,"Python, Pandas, Machine Learning"
+3,Raj,Backend Engineer,5,"Go, Docker, Kubernetes, PostgreSQL"
+4,Sneha,Frontend Engineer,2,"HTML, CSS, JavaScript, Tailwind"
+5,Arjun,AI Researcher,6,"Python, LangChain, LlamaIndex, NLP"
